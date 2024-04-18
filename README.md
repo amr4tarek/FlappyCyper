@@ -11,6 +11,4 @@ https://github.com/amr4tarek/FlappyCyper/assets/74368830/e8eab4b8-24b0-46f0-8ded
 ## Download
 Download the APK to try the game on your Android device:
 
-[![Download CyberFlap APK](https://img.shields.io/badge/Download-APK-blue.svg)]([https://github.com/amr4tarek/FlappyCyper/blob/main/apk%20and%20gif/FlappyCyper.apk](https://raw.githubusercontent.com/amr4tarek/FlappyCyper/main/apk%20and%20gif/FlappyCyper.apk?token=GHSAT0AAAAAACQ6CGE7KDLBC53L6ENHMWI2ZRBQZ7A))
-
-
+[![Download CyberFlap APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/amr4tarek/FlappyCyper/raw/main/apk%20and%20gif/FlappyCyper.apk)
